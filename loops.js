@@ -15,3 +15,6 @@ for(var i = 0; i < 25; i++) {
   return "done";
 }
 
+function doWhileLoop(array) {
+  
+}
