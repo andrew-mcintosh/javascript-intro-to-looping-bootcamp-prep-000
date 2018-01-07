@@ -9,8 +9,9 @@ for(var i = 0; i < 25; i++) {
    return array;
  }
  
+ function whileLoop(n) {
  while(n > 10){
 	console.log(--n);
-	var n = Math.floor(Math.random() * 10);
 }
 console.log("done");
+}
