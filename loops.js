@@ -16,7 +16,7 @@ for(var i = 0; i < 25; i++) {
 }
 
 function doWhileLoop(array) {
-  do { 
+  do { array.pop();
 } while (array.length > 0 && maybeTrue());
-return 
+return array;
 }
