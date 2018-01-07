@@ -13,5 +13,5 @@ for(var i = 0; i < 25; i++) {
  while(n > 10){
 	console.log(--n);
 }
-console.log('done');
+return ('done');
 }
