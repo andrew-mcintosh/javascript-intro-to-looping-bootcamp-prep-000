@@ -16,5 +16,5 @@ for(var i = 0; i < 25; i++) {
 }
 
 function doWhileLoop(array) {
-  
+  do 
 }
