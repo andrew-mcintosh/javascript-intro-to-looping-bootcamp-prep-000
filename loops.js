@@ -11,5 +11,6 @@ for(var i = 0; i < 25; i++) {
  
  while(n > 10){
 	console.log(--n);
+	var n = Math.floor(Math.random() * 10);
 }
-console.log("Tails! Done flipping.");
+console.log("done");
