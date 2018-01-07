@@ -18,5 +18,4 @@ for(var i = 0; i < 25; i++) {
 function doWhileLoop(array) {
   do { return (array);
 } while (array.length > 0 && maybeTrue());
-
 }
