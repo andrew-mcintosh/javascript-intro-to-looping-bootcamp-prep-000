@@ -9,4 +9,8 @@ for(var i = 0; i < 25; i++) {
    return array;
  }
  
- 
+ while(n > 10){
+	console.log(--n);
+	var coinFace = Math.floor(Math.random() * 2);
+}
+console.log("Tails! Done flipping.");
